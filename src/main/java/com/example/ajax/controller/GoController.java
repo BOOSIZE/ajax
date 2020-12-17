@@ -12,8 +12,5 @@ public class GoController
 	public String to(@PathVariable String path)
 	{
 		return path;
-
-
-
 	}
 }
